@@ -1,0 +1,22 @@
+/* selected tag {
+    properity: value;
+} */
+
+
+/* get color by name or code */
+
+h1 {
+    color: rgba(240, 38, 79, .5);
+}
+
+li {
+    color: rgb(30, 247, 70);
+}
+
+p {
+    color: blue;
+}
+
+h4 {
+    color: #f5c133;
+}
