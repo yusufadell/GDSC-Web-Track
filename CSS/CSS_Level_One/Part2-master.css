@@ -1,0 +1,24 @@
+/* seleted tag {
+    prorety: value;
+} */
+
+body {
+    background: url(https://thumbs.dreamstime.com/z/clouds-blue-sky-light-31912398.jpg);
+    background-repeat: no-repeat;
+}
+
+div {
+    background: blue;
+    border: orange;
+    border-width: thick;
+    border-style: dotted;
+}
+
+p {
+    color: yellow;
+}
+
+span {
+    background-color: red;
+    color: black;
+}
