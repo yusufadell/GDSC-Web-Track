@@ -11,12 +11,8 @@
     text-decoration: line-through;
 }
 
-* {
-    color: black;
-}
-
-h3+ul {
-    border: 3px solid green;
+h3 + ul {
+    border: 5px double green;
 }
 
 li a {
