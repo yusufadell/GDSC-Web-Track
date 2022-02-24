@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Courier New', Courier, monospace ;
+}
+
+p{
+    font-family: monospace;
+}
+
+body{
+    font-size: 20px;
+}
+
+
+#two{
+    font-size: 1.5em;
+}
+
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+h1{
+    text-align: center;
+}
+
+/*
+
+1.0 em = 16px
+1.5 em = 24px
+2.0 em = 32px
+*/
